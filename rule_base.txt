@@ -1,0 +1,71 @@
+# Headlight Mode Rule
+
+"""def headlight_rule(a,b,c):
+    if a=="no_rain" and b=="drizzle" and c=="satisfactory":
+        return "High Beam Mode"
+    
+    elif a=="no_rain" and b=="drizzle" and c=="just_acceptable":
+        return "High Beam Mode"
+    
+    elif a=="no_rain" and b=="drizzle" and c=="unbearable":
+        return "Low Beam Mode"
+    
+    elif a=="no_rain" and b=="raining" and c=="satisfactory":
+        return "High Beam Mode"
+
+    elif a=="no_rain" and b=="raining" and c=="just_acceptable":
+        return "High Beam Mode"
+
+    elif a=="no_rain" and b=="raining" and c=="unbearable":
+        return "Low Beam Mode"
+
+    elif a=="no_rain" and b=="heavy" and c=="satisfactory":
+        return "High Beam Mode"
+
+    elif a=="no_rain" and b=="heavy" and c=="just_acceptable":
+        return "High Beam Mode"
+
+    elif a=="no_rain" and b=="heavy" and c=="unbearable":
+        return "Low Beam Mode"
+
+    elif a=="raining" and b=="drizzle" and c=="satisfactory":
+        return "High Beam Mode"
+
+    elif a=="raining" and b=="drizzle" and c=="just_acceptable":
+        return "High Beam Mode"
+
+    elif a=="raining" and b=="drizzle" and c=="unbearable":
+        return "Low Beam Mode"
+
+    elif a=="raining" and b=="raining" and c=="satisfactory":
+        return "High Beam Mode"
+
+    elif a=="raining" and b=="raining" and c=="just_acceptable":
+        return "Low Beam Mode"
+
+    elif a=="raining" and b=="raining" and c=="unbearable":
+        return "Low Beam Mode"
+
+    elif a=="raining" and b=="heavy" and c=="satisfactory":
+        return "Low Beam Mode"
+
+    elif a=="raining" and b=="heavy" and c=="just_acceptable":
+        return "Low Beam Mode"
+
+    else:
+        return "Low Beam Mode" """
+
+# Wiper Speed Rule
+
+"""def rainfall_rule(a,b):
+    if a== "no_rain":
+        return "OFF"
+    
+    elif b== "drizzling":
+        return "LOW"
+    
+    elif b== "raining":
+        return "LOW"
+    
+    else:
+        return "HIGH" """
